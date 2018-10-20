@@ -27,6 +27,10 @@ var quotes = [
     citation: 'The Restaurant at the End of the Universe',
     year: 1980
   },
+	{
+	quote: "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+	source: "Viktor Frankl"
+	},
   {
     quote: 'I swear by my pretty floral bonnet, I will end you.',
     source: 'Malcolm Reynolds',
